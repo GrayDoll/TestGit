@@ -1,0 +1,14 @@
+私教详情页
+
+1.推荐老师：ptCourse/getPtTeacherByCourse（接口文档第三个）
+2.私教流程：ptCourseFlow
+3.私教详情页分享：暂无
+
+私教首页——老师列表
+1.教学时长——TeachDuration
+私教小类价格展示
+
+/ptCourse/getPtCourseByCity  (Long largeTypeId,String cityCode,Pageable pageable)
+
+支付页面取的字段
+coupons
