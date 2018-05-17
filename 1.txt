@@ -1,1 +1,3 @@
 hello, this is my first git, then write something on it , to note this; how to use git very smoothly? what do I need do for this situlation;
+
+insert someTips to the page, do something else, how to overCome this problem, itis a big problem !!
